@@ -1,0 +1,22 @@
+{
+  "name": "image-intel",
+  "version": "1.0.0",
+  "description": "test google vision api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminCheung/image-intel.git"
+  },
+  "author": "Benjamin Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminCheung/image-intel/issues"
+  },
+  "homepage": "https://github.com/BenjaminCheung/image-intel#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^0.11.5"
+  }
+}
